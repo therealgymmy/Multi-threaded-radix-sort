@@ -1,7 +1,6 @@
 #include "radix.hpp"
 
 #include <cmath>
-#include <map>
 #include <queue>
 #include <thread>
 
